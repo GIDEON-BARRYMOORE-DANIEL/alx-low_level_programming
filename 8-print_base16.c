@@ -20,8 +20,4 @@ int main(void)
 			putchar(ca - 10 + 'a');
 		}
 	}
-
-	putchar('\n');
-
-	return (0);
 }
