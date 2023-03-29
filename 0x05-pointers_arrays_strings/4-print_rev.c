@@ -15,3 +15,6 @@ void print_rev(char *s)
 		revstr[b] = s[a];
 		b++;
 	}
+	puts(revstr);
+}
+
